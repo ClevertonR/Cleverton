@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-👋 Hello! I'm Nícolas Gabriel, a brazilian programmer.
+👋 Hello! I'm Cleverton Rodrigues, a brazilian Systems Analyst.
 </p>
 
 ## **🐉 About me:**
-* Nícolas Gabriel, 18 years
-* Full Stack programmer
-* Currently studying Frameworks
-* I have 1 Year, 9 Months and 13 Days of experience
+* Cleverton Rodrigues, 34 years
+* QA Engineer
+* Systems Analyst
+* I have 10 years, 9 months of experience in the IT field
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
